@@ -2,7 +2,7 @@
   "name": "graph-visualizer",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://{sverrastro}.github.io/{GraphVisualizer}",
+  "homepage" : "https://sverrastro.github.io/GraphVisualizer",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
